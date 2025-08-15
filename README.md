@@ -1,6 +1,6 @@
 # Criando um Container para uma Aplicação Web
 
-Projeto desenvolvido no VS Code com Node.js e Python Flask 
+Projeto desenvolvido no VS Code com Node.js e Python Flask <br>
 Para desenvolver o Container foi criado:
 *um arquivo Dockerfile para de finir a imagem do Docker-<br>
 Dockerfile é um arquivo de texto que contém instruções para construir uma imagem.
